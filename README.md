@@ -2,7 +2,7 @@
 
 This is an archive containing the notes, resouces and papers of RVCE's first year courses according to the 2025 scheme. All The courses are given according to their course code and name as given below.
 
-## Index of Programs
+## Index of Courses
 
 ### Applied Science Courses
 * **MA211TA**: Fundamentals of Linear Algebra, Calculus and Numerical Methods
